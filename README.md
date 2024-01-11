@@ -4,12 +4,12 @@
 #### Web Developer
 
 
- Thank you for visiting my profile. I am a Frontend Developer. I have learned frontend technologies like HTML, CSS, Bootstrap, Tailwind CSS, JAVASCRIPT, REACT JS, React Router DOM, and firebase authentication. I know a little about backend technologies like Node JS, Express JS, and Databases like MongoDB. I love to code and want to develop new things with my ability.
+Thank you for visiting my profile. I am a Frontend Developer. I have learned frontend technologies like HTML, CSS, Bootstrap, Tailwind CSS, JAVASCRIPT, REACT JS, React Router DOM, and firebase authentication. I know a little about backend technologies like Node JS, Express JS, and Databases like MongoDB. I love to code and want to develop new things with my ability.
 I always want to explore new things and love to learn. I have done some small projects. I am trying to enrich my knowledge every single day.
 
 Skills:  REACT / JS / HTML / CSS / Mongo DB / Node JS / Express JS
 
-- 🌱 I’m currently learning Node JS 
+- 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
