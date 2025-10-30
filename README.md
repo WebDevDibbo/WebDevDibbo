@@ -1,15 +1,21 @@
-### Hi there 👋, I'm Dibbo Das
+![Profile Views](https://komarev.com/ghpvc/?username=WebDevDibbo&label=Profile%20Views&color=0e75b6&style=flat)
 
-🔭 I’m currently working on Web Development 
+# Hi there 👋, I'm Dibbo Das
 
-👯 I’m looking to collaborate on Web Developent
+Here are some ideas to get you started:
 
-🌱 I’m currently learning React
+- 🔥 I’m currently working on ***Web Development Projects***
+- 🌱 I’m currently learning ***React***
+- 👯 I’m looking to collaborate on ***Web Development Projects***
+- ⚡ I love solving **coding challenges** and learning new technologies
+- 💬 Ask me about ***Web Development***
+- 🎯 My goal is to become a **Full Stack Developer**
+- ⚡ Fun fact: ***Code For Life***
 
-💬 Ask me about Web Development
-
-⚡ Fun fact 
-
+## 🤷‍♂️ About Me:
+Hi, I'm **Dibbo Das** — a passionate **Web Developer** from **Bangladesh** 🇧🇩  
+I enjoy creating modern, responsive, and user-friendly web applications.  
+Currently, I’m focusing on **Frontend Development** and building projects that connect the full stack.
 
 
 ## 🌐 Socials:
